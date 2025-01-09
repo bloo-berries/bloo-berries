@@ -2,7 +2,6 @@ Hi, I'm Bloo 🫐
 
 
 - 🤔 Tinkering with: 
-  -  💰 Blockchain, Cryptocurrency, NFTs, and AR/VR  
+  -  💰 Blockchain & Crypto 
   -  🎮 Gaming - all. things. gaming.
-  -  🪴 Making informed agricultural decisions for climate preservation
-  -  🧬 Application to genetic modeling/pharmacogenetics 
+  -  🧬 Application to genetic modeling/pharmacogenetics #desci 
