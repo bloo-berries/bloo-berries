@@ -1,7 +1,7 @@
 # Hi, I'm Bloo 🫐
 
 <div align="right">
-  <img src="images/blueberries.jpg" alt="Vibrant blueberries with water droplets" width="300">
+  <img src="images/bloobs.png" alt="Vibrant blueberries with water droplets" width="300">
 </div>
 
 - 🤔 Tinkering with:
