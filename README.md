@@ -1,8 +1,5 @@
-# 🫐Hi, I'm Bloo
-
-<div align="right">
-  <img src="images/lemon-blue.png" alt="lemon-drink-with-blueberries" width="150">
-</div>
+| 🫐Hi, I'm Bloo | <img src="images/lemon-blue.png" alt="lemon-drink-with-blueberries" width="150"> |
+|----------------|-------------------------------------------------------------------------------|
 
 - 🤔 Tinkering with:
   - ✨ [Health Data and Research](https://pbs.twimg.com/media/F81BIPsakAA9hA3?format=jpg&name=900x900)
