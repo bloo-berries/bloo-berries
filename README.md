@@ -1,6 +1,6 @@
 # 🫐Hi, I'm Bloo
 
-<img align="right" width="150" src="images/lemon-blue.png" alt="lemon-drink-with-blueberries"/>
+<img align="right" width="150" src="images/skinny-blue.png" alt="lemon-drink-with-blueberries"/>
 
 - 🤔 Tinkering with:
   - ✨ [Health Data and Research](https://pbs.twimg.com/media/F81BIPsakAA9hA3?format=jpg&name=900x900)
