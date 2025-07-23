@@ -2,7 +2,7 @@
 
 <img align="right" width="350" src="images/bloobs.png" alt="lemon-drink-with-blueberries"/>
 <br>
-<br>
+</br>
 - 🤔 Tinkering with:
   - ✨ [Health Data and Research](https://pbs.twimg.com/media/F81BIPsakAA9hA3?format=jpg&name=900x900)
   - 💰 [Blockchain & Crypto](https://pbs.twimg.com/media/GMCn-52WIAAQY8f?format=jpg&name=medium)
