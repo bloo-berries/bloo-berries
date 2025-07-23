@@ -1,5 +1,4 @@
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐-Hi-,-I'm-Bloo-🫐+line+of+text)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐-Hi-,-I'm-Bloo-🫐+line+of+text)](https://git.io/typing-svg)
 
 <img align="right" width="350" src="images/bloobs.png" alt="lemon-drink-with-blueberries"/>
 
