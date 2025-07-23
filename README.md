@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+Hi+I'm+Bloo+🫐)](https://git.io/typing-svg)
 
 <img align="right" width="350" src="images/bloobs.png" alt="lemon-drink-with-blueberries"/>
-<br>
-</br>
+
 - 🤔 Tinkering with:
   - ✨ [Health Data and Research](https://pbs.twimg.com/media/F81BIPsakAA9hA3?format=jpg&name=900x900)
   - 💰 [Blockchain & Crypto](https://pbs.twimg.com/media/GMCn-52WIAAQY8f?format=jpg&name=medium)
