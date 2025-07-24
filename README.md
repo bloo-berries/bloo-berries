@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+Hi+I'm+Bloo+🫐)](https://git.io/typing-svg)
-
+<p align="center">⠊⠋ ⠽⠕⠥ ⠉⠁⠝ ⠗⠑⠁⠙ ⠞⠓⠊⠎ ⠞⠓⠑⠝ ⠽⠕⠥ ⠙⠑⠎⠑⠗⠧⠑ ⠁ ⠉⠕⠕⠅⠊⠑</p>
 <img align="right" width="350" src="images/bloobs.png" alt="lemon-drink-with-blueberries"/>
 
 - 🤔 Tinkering with:
@@ -11,9 +11,6 @@
 <br>
 <br>
 <br>
-<p align="center">⠊⠋ ⠽⠕⠥ ⠉⠁⠝ ⠗⠑⠁⠙ ⠞⠓⠊⠎ ⠞⠓⠑⠝ ⠽⠕⠥ ⠙⠑⠎⠑⠗⠧⠑ ⠁ ⠉⠕⠕⠅⠊⠑</p>
-
-
 <br>
 <br>
 <br>
