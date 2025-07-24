@@ -9,8 +9,8 @@
   - 🫧 [Desci](https://img.bgstatic.com/multiLang/image/social/30896cb2d4288211dc525efc9b6de8121731715206330.jpeg) and [Decentralization](https://i.imgflip.com/1pk2po.jpg)
 
 
+<center>⠊⠋ ⠽⠕⠥ ⠉⠁⠝ ⠗⠑⠁⠙ ⠞⠓⠊⠎ ⠞⠓⠑⠝ ⠽⠕⠥ ⠙⠑⠎⠑⠗⠧⠑ ⠁ ⠉⠕⠕⠅⠊⠑</center>
 
-<br>
 <br>
 <br>
 <br>
