@@ -1,4 +1,8 @@
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+Hi+I'm+Bloo+🫐)](https://git.io/typing-svg)</p>
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+Hi+I'm+Bloo+🫐)](https://git.io/typing-svg)
+
+</p>
 
 <p align="center">⠊⠋ ⠽⠕⠥ ⠉⠁⠝ ⠗⠑⠁⠙ ⠞⠓⠊⠎ ⠞⠓⠑⠝ ⠽⠕⠥ ⠙⠑⠎⠑⠗⠧⠑ ⠁ ⠉⠕⠕⠅⠊⠑</p>
 
