@@ -16,12 +16,3 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐)](https://git.io/typing-svg)
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('bloomedhealth', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Donate',
-    'floating-chat.donateButton.background-color': '#5bc0de',
-    'floating-chat.donateButton.text-color': '#323842'
-  });
-</script>
