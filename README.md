@@ -15,8 +15,6 @@
 <br>
 <br>
 
-## 🫐 Fresh Pick
-
 <p align="center">⠁⠇⠞⠞⠑⠭⠞ ⠛⠥⠁⠗⠙⠊⠁⠝ 🏆</p>
 
 > **🏆 Winner — Best New Mod Tool**
@@ -25,7 +23,5 @@
 > **[AltText Guardian](https://github.com/bloo-berries/AltText-Guardian)** — A Reddit mod tool that detects image posts missing descriptions and auto-generates alt-text using computer vision. Making Reddit accessible, one image at a time.
 >
 > `TypeScript` `Devvit` `Gemini Vision` `Redis`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐)](https://git.io/typing-svg)
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-%23FF5B5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/bloomedhealth)
