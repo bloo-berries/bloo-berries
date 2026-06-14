@@ -16,14 +16,9 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bioinformatics-276DC3?style=for-the-badge&logo=dna&logoColor=white" alt="Bioinformatics"/>
-  <img src="https://img.shields.io/badge/Accessibility-0056B3?style=for-the-badge&logo=accessible-icon&logoColor=white" alt="Accessibility"/>
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3"/>
-  <img src="https://img.shields.io/badge/DeSci-8B5CF6?style=for-the-badge&logo=molecule&logoColor=white" alt="DeSci"/>
-  <img src="https://img.shields.io/badge/Pharmacogenetics-10B981?style=for-the-badge&logo=genially&logoColor=white" alt="Pharmacogenetics"/>
-</p>
-
-<p align="center">
+  <a href="https://github.com/bloo-berries/AltText-Guardian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bloo-berries&repo=AltText-Guardian&theme=tokyonight&title_color=DAA520&icon_color=DAA520&border_color=DAA520" alt="AltText Guardian - Hackathon Winner"/>
+  </a>
   <a href="https://github.com/bloo-berries/blindness-visualizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bloo-berries&repo=blindness-visualizer&theme=tokyonight" alt="blindness-visualizer"/>
   </a>
@@ -34,19 +29,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bloo-berries&repo=Library-of-the-Blind&theme=tokyonight" alt="Library-of-the-Blind"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bloo-berries&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">⠁⠇⠞⠞⠑⠭⠞ ⠛⠥⠁⠗⠙⠊⠁⠝ 🏆</p>
-
-> **🏆 Winner — Best New Mod Tool**
-> [Reddit Mod Tools Hackathon](https://devpost.com/software/alttext-guardian/)
->
-> **[AltText Guardian](https://github.com/bloo-berries/AltText-Guardian)** — A Reddit mod tool that detects image posts missing descriptions and auto-generates alt-text using computer vision. Making Reddit accessible, one image at a time.
->
-> `TypeScript` `Devvit` `Gemini Vision` `Redis`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐+🫐)](https://git.io/typing-svg)
 
