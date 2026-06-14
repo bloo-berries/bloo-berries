@@ -15,6 +15,30 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Bioinformatics-276DC3?style=for-the-badge&logo=dna&logoColor=white" alt="Bioinformatics"/>
+  <img src="https://img.shields.io/badge/Accessibility-0056B3?style=for-the-badge&logo=accessible-icon&logoColor=white" alt="Accessibility"/>
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3"/>
+  <img src="https://img.shields.io/badge/DeSci-8B5CF6?style=for-the-badge&logo=molecule&logoColor=white" alt="DeSci"/>
+  <img src="https://img.shields.io/badge/Pharmacogenetics-10B981?style=for-the-badge&logo=genially&logoColor=white" alt="Pharmacogenetics"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bloo-berries/blindness-visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bloo-berries&repo=blindness-visualizer&theme=tokyonight" alt="blindness-visualizer"/>
+  </a>
+  <a href="https://github.com/bloo-berries/Awesome-Endo-Adeno-Resources">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bloo-berries&repo=Awesome-Endo-Adeno-Resources&theme=tokyonight" alt="Awesome-Endo-Adeno-Resources"/>
+  </a>
+  <a href="https://github.com/bloo-berries/Library-of-the-Blind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bloo-berries&repo=Library-of-the-Blind&theme=tokyonight" alt="Library-of-the-Blind"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bloo-berries&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
 <p align="center">⠁⠇⠞⠞⠑⠭⠞ ⠛⠥⠁⠗⠙⠊⠁⠝ 🏆</p>
 
 > **🏆 Winner — Best New Mod Tool**
