@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+Hi+I'm+Bloo,+Blind+Dev+🫐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🫐+Hi+I'm+Bloo+🫐)](https://git.io/typing-svg)
 <p align="center">⠓⠑⠇⠇⠕ ⠺⠕⠗⠇⠙ <br>
   ⠊⠋ ⠽⠕⠥ ⠉⠁⠝ ⠗⠑⠁⠙ ⠞⠓⠊⠎ ⠞⠓⠑⠝ ⠽⠕⠥ ⠙⠑⠎⠑⠗⠧⠑ ⠁ ⠉⠕⠕⠅⠊⠑</p>
 <img align="right" width="350" src="images/bloobs.png" alt="lemon-drink-with-blueberries"/>
