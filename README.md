@@ -13,10 +13,10 @@
 <br>
 <br>
 
-> **🏆 Winner — Best New Mod Tool 🏆**
+> **🏆 Winner: Best New Mod Tool 🏆**
 > [Reddit Mod Tools Hackathon](https://devpost.com/software/alttext-guardian/)
 >
-> **[AltText Guardian](https://github.com/bloo-berries/AltText-Guardian)** — A Reddit mod tool that detects image posts missing descriptions and auto-generates alt-text using computer vision. Making Reddit accessible, one image at a time.
+> **[AltText Guardian](https://github.com/bloo-berries/AltText-Guardian)**: A Reddit mod tool that detects image posts missing descriptions and auto-generates alt-text using computer vision. Making Reddit accessible, one image at a time.
 >
 > `TypeScript` `Devvit` `Gemini Vision` `Redis`
 >
